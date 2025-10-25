@@ -51,16 +51,16 @@ The primary goal is to help HR departments identify factors contributing to attr
 
 ## 📸 Dashboard Preview
 ### 📍 Page 1 – HR Analytics Overview
-![Dashboard Overview](Screenshot 2025-10-25 150858.png)
+![Dashboard Overview](Screenshot 2025-10-25 210808.png)
 
 ### 📍 Page 2 – Attrition Insights & Conclusion
-![Insights Page](Screenshot 2025-10-25 150832.png)
+![Insights Page](Screenshot 2025-10-25 210838.png)
 
-> 🖼️ *Add your screenshots to the `Dashboard_Screenshots` folder for them to display above.*
 
 ---
 
 ## 🚀 How to Use
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/HR-Analytics-Dashboard.git
+   git clone https://github.com/MahinBasha-591/HR-ANALYTICS-DASH-BOARD.git
+
